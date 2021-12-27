@@ -1,4 +1,6 @@
 {
   "mongoUri": "mongodb+srv://layobright:Basiratu1@cluster0.z2gb5.mongodb.net/dev_connector?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "0a42972b81d3ea361c92",
+  "githubSecret": "6e85e810567842beaa96b859ee17ec7b45bf2183"
 }
